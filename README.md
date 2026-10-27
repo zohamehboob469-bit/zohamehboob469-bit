@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zoha Mehboob 👋
 
-<!--
-**zohamehboob469-bit/zohamehboob469-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+💻 I'm an aspiring Web Developer.
+🌱 I'm learning HTML, CSS, JavaScript, Git and GitHub.
+⌚ My project: Alberto Watches Website
+🎨 I enjoy creative design and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- HTML
+- CSS
+- JavaScript (Learning)
+- Git & GitHub
+- SEO
+
+## My Project
+
+- [Alberto Watches Website](https://github.com/zohamehboob469-bit/-Watches-Project)
+
+Thanks for visiting my profile! ✨
+
