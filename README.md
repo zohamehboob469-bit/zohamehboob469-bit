@@ -1,23 +1,24 @@
-# Hi, I'm Zoha Mehboob 👋
 
-Welcome to my GitHub profile!
+Hi, I'm Zoha Mehboob 👋
+Aspiring Web Developer
 
-💻 I'm an aspiring Web Developer.
-🌱 I'm learning HTML, CSS, JavaScript, Git and GitHub.
-⌚ My project: Alberto Watches Website
+I'm learning web development and building creative projects using HTML and CSS.
+
+💻 My Skills
+HTML
+CSS
+JavaScript — Learning
+Git & GitHub
+SEO
+
+
+⌚ Featured Project
+Alberto Watches Website
+
+My watch website project, built with HTML and CSS.
+
+Repository: -Watches-Project
+
 🎨 I enjoy creative design and web development.
 
-## My Skills
-
-- HTML
-- CSS
-- JavaScript (Learning)
-- Git & GitHub
-- SEO
-
-## My Project
-
-- [Alberto Watches Website](https://github.com/zohamehboob469-bit/-Watches-Project)
-
 Thanks for visiting my profile! ✨
-
